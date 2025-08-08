@@ -64,12 +64,15 @@ My goal is to deliver high-quality software that effectively solves real-world p
 - [GitHub](https://github.com/imranfaraji)  
 - [LinkedIn](https://www.linkedin.com/in/imran-hosen8/) 
 - [Facebook](https://www.facebook.com/imranhosen.borhany)
+- [twitter](https://x.com/imranfaraj59162)
 
 ## 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=imranfaraji&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imranfaraji&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imranfaraji&layout=compact)   
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imranfaraji&theme=default)
+
 
 
 
