@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Imran Hosen
+### MERN Stack Developer | Front-End focus Full Stack Developer
+
+
+## ✨ About Me 
+I am a passionate MERN stack developer with Experience in building responsive and user-friendly web applications.
+I love working with modern JavaScript frameworks and continuously learning new technologies to enhance my skills.
+My goal is to deliver high-quality software that effectively solves real-world problems.
+
+
+
+## 🔭Current Activities
+-Explore **Next.Js** and TypeScript.
+-Work on a **tourism website** frontend project.
+-Improving the **Blood Donation Application** dashboard.
+-Developing **ShareBite**, a community food-sharing platform.
