@@ -71,5 +71,5 @@ My goal is to deliver high-quality software that effectively solves real-world p
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imranfaraji&layout=compact)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imranfaraji&theme=default)
+
 
