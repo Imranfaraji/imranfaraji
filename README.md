@@ -1,5 +1,5 @@
 
-![banner]([https://i.ibb.co.com/wNk798H4/Blue-Yellow-Modern-Linked-In-Banner.png](https://i.ibb.co.com/60sWLqpn/Blue-Yellow-Modern-Linked-In-Banner-2.png))
+![banner](https://i.ibb.co.com/60sWLqpn/Blue-Yellow-Modern-Linked-In-Banner-2.png)
 <!--
 **Imranfaraji/imranfaraji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
