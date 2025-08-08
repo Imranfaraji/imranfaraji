@@ -62,8 +62,8 @@ My goal is to deliver high-quality software that effectively solves real-world p
 
 ## 🔗 Social Links
 - [GitHub](https://github.com/imranfaraji)  
-- [LinkedIn](https://linkedin.com/in/imranfaraji)  
-- [Twitter](https://twitter.com/imranfaraji) *(optional)*
+- [LinkedIn](https://www.linkedin.com/in/imran-hosen8/) 
+- [Facebook](https://www.facebook.com/imranhosen.borhany)
 
 ## 📊 GitHub Stats
 
