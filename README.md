@@ -27,7 +27,11 @@ My goal is to deliver high-quality software that effectively solves real-world p
 
 
 ## 🔭Current Activities
--Explore **Next.Js** and TypeScript.
--Work on a **tourism website** frontend project.
--Improving the **Blood Donation Application** dashboard.
--Developing **ShareBite**, a community food-sharing platform.
+-Explore **Next.Js** and TypeScript.  
+
+-Work on a **tourism website** frontend project.  
+
+-Improving the **Blood Donation Application** dashboard.  
+
+-Developing **ShareBite**, a community food-sharing platform.  
+
